@@ -1,0 +1,31 @@
+# Виртуальное окружение Python
+magenta_env/
+temp/
+__pycache__/
+
+# Тяжелые ML датасеты и логи
+tfrecords/
+mini_coco/
+mini_wikiart/
+training_runs_mini/
+train2014/
+wikiart/
+мусор/
+
+# Оставляем только легкие tflite, блокируем сырые чекпоинты ckpt
+checkpoints/
+
+# Системные файлы Android Studio и кэш сборки
+*.apk
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+.DS_Store
+
+# Чужие репозитории и черновики
+magenta/
+*.zip
+Текстовый документ.txt
+project_4.ipynb
