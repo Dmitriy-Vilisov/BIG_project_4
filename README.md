@@ -73,7 +73,7 @@
 📱 Установка приложения (.apk)
 
 Готовый установочный пакет для Android-устройств:
-👉 **[Скачать StyleTransfer_App.apk](https://drive.google.com/file/d/1Rp3_XqvGicIh6NTMJL2_A6bAVw-kNjc5/view?usp=sharing)**
+👉 **[Скачать StyleTransfer_App.apk](https://drive.google.com/file/d/1Rp3_XqvGicIh6NTMJL2_A6bAVw-kNjc5/view?usp=sharing)** или скачайте с репозитория
 
 📚 Источники и ссылки
 
