@@ -64,6 +64,16 @@
     Убедитесь, что модели style_predict.tflite и style_transfer.tflite находятся в директории app/src/main/assets/.
 
     Соберите проект и запустите на физическом устройстве (рекомендуется для тестов камеры) или в эмуляторе.
+🎥 Демонстрация работы приложения
+
+В этом коротком видео показана работа Android-приложения на реальном мобильном устройстве (On-Device Inference). Продемонстрирован перенос стиля с использованием камеры и работа кастомного ползунка интенсивности интерполяции (`w`).
+
+👉 **[Смотреть видео работы приложения (Google Drive)](https://drive.google.com/file/d/1ndtuCvil-2rpbT-LQmuHoKgSFquxOPxv/view?usp=sharing)**
+
+📱 Установка приложения (.apk)
+
+Готовый установочный пакет для Android-устройств:
+👉 **[Скачать StyleTransfer_App.apk](https://drive.google.com/file/d/1Rp3_XqvGicIh6NTMJL2_A6bAVw-kNjc5/view?usp=sharing)** или скачайте с репозитория
 
 📚 Источники и ссылки
 
