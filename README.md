@@ -70,6 +70,11 @@
 
 👉 **[Смотреть видео работы приложения (Google Drive)](https://drive.google.com/file/d/1ndtuCvil-2rpbT-LQmuHoKgSFquxOPxv/view?usp=sharing)**
 
+📱 Установка приложения (.apk)
+
+Готовый установочный пакет для Android-устройств:
+👉 **[Скачать StyleTransfer_App.apk](https://drive.google.com/file/d/1Rp3_XqvGicIh6NTMJL2_A6bAVw-kNjc5/view?usp=sharing)**
+
 📚 Источники и ссылки
 
     Оригинальная статья: Exploring the structure of a real-time, arbitrary neural artistic stylization network
